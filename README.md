@@ -1,9 +1,12 @@
 # 💫 About Me:
-Hello, I'm Tom, a 21-year-old computer science student specializing in application development. My passion for computing has led me to focus on mobile development, primarily using Kotlin, Swift, MAUI, and SQL.<br><br>🎓 Education: Currently studying computer science with a focus on mobile development.<br><br>🔍 Interests: Passionate about artificial intelligence, I am committed to learning advanced technologies like Copilot and GPT.
+Hello, I'm Tom, a 21-year-old computer science student specializing in application development. My passion for computing has led me to focus on mobile development, primarily using Kotlin, Swift, MAUI, and SQL.<br><br>
+
+Interests: Passionate about artificial intelligence, I am committed to learning advanced technologies like Copilot and GPT.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Owme_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@f.l.w.s) 
+#🎓 Education:
+Currently studying computer science with a focus on mobile development.<br><br>🔍 
+
 
 # 💻 Tech Stack
 
@@ -69,6 +72,9 @@ Hello, I'm Tom, a 21-year-old computer science student specializing in applicati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" title="Azure"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
 </p>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Owme_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@f.l.w.s) 
 
 
 
