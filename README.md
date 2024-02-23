@@ -46,7 +46,7 @@
 
 ### IDE
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original.svg" width="40" height="40" title="Visual Studio Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40" title="Visual Studio"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" title="IntelliJ IDEA"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" width="40" height="40" title="DataGrip"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" width="40" height="40" title="Rider"/>
