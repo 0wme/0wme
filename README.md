@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center"> 💫 About Me: </h1>
 <p align="center">
     <strong>Hello, I'm Tom, a 21-year-old computer science student specializing in application development. My passion for computing has led me to focus on mobile development, primarily using Kotlin, Swift, MAUI, and SQL.</strong><br><br>
 </p>
