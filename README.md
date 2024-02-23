@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h2 align="center"> 💫 About Me:</h2>
 <p align="center">
     <strong>Hello, I'm Tom, a 21-year-old computer science student specializing in application development. My passion for computing has led me to focus on mobile development, primarily using Kotlin, Swift, MAUI, and SQL.</strong><br><br>
 </p>
@@ -7,14 +7,14 @@
     <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies like Copilot and GPT.<br><br>
 </p>
 
-<h2 align="center"># 🎓 Education: </h2>
+<h2 align="center"> 🎓 Education: </h2>
 <p align="center">
     <strong>Currently studying computer science with a focus on mobile development.</strong><br><br>
 </p>
 
 <h1 align="center" style="color:orange;"><strong>💻 Tech Stack</strong></h1>
 
-## 🖥️ Languages
+<h2 align="center">🖥️ Languages</h2>
 ### Web Development
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
