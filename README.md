@@ -7,7 +7,7 @@
     <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies like Copilot and GPT.<br><br>
 </p>
 
-# 🎓 Education:
+<h2 align="center"># 🎓 Education: </h2>
 <p align="center">
     <strong>Currently studying computer science with a focus on mobile development.</strong><br><br>
 </p>
