@@ -81,7 +81,6 @@
 <p align="center">
   <a href="https://discord.gg/Owme_"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://tiktok.com/@f.l.w.s"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/></a>
 </p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
