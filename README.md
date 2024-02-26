@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies like Copilot and GPT.<br><br>
+    <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.<br><br>
 </p>
 
 <h1 align="center">🎓 Education:</h1>
