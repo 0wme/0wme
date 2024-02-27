@@ -9,7 +9,10 @@
 
 <h1 align="center">🎓 Education:</h1>
 <p align="center">
-    <strong>Currently studying computer science with a focus on mobile development.</strong><br><br>
+    <strong>Currently studying computer science with a focus on mobile development.
+    Coming Soon...
+    
+</strong><br><br>
 </p>
 
 <h1 align="center" style="color:orange;"><strong>💻 Tech Stack</strong></h1>
