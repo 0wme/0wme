@@ -10,7 +10,7 @@
 <h1 align="center">🎓 Education:</h1>
 <p align="center">
     <strong>Currently studying computer science with a focus on mobile development.
-    Coming Soon...
+    Coming Soon..
     
 </strong><br><br>
 </p>
