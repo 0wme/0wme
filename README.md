@@ -1,19 +1,18 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=0wme.0wme&left_color=orange&right_color=orange" />
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=0wme.0wme&left_color=orange&right_color=orange" align="right" />
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=F76E09&center=true&random=false&width=435&lines=Welcome+to+my+Github+profile+!;Hello%2C+my+name+is+Tom+!;I+am+a+computer+science+student" alt="Typing SVG" /></a>
 </h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="center">
-    <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.<br><br>
+    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
+<p align="center">
+    <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.
+</p>
 
-<h1 align="center" style="color:orange;"><strong>💻 Tech Stack</strong></h1>
-
-<h2 align="center">🖥️ Languages & Tools</h2>
+<h1 align="center">🖥️ Languages & Tools</h2>
 
 <table align="center">
   <tr>
