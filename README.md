@@ -1,4 +1,4 @@
-<img align="right" href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=0wme&icon=7&color=7"/>
+<img align="right" href="https://visitcount.itsvg.in" src="https://visitcount.itsvg.in/api?id=0wme&icon=7&color=7"/>
 
 
 <h1 align="center">
