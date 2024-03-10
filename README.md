@@ -12,15 +12,12 @@
 <div>
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" />
 <div style="float: left; width: 60%;">
-    <h3>A passionate AI enthusiast from France 🇫🇷</h3>
-    🔭 I’m currently working on **advanced machine learning models**
-    <br/>
-    🌱 I’m currently learning **Quantum Computing, TensorFlow, and GPT-4**
-    <br/>
-    💬 Ask me about **Python, AI, OpenAI... or anything [here](https://github.com/0wme/0wme/issues)**
-    <br/>
-    ⚡ Fun fact: **The AI in 'Ex Machina' was inspired by real-life AI developments**
-    <br/><br/>
+    <h3>A student with a passion for mobile development</h3>
+    🔭 I’m currently working on **mobile project**<br/><br/>
+    🌱 I’m currently learning **Kotlin,Swift and .NET MAUI**<br/><br/>
+    💬 Ask me about **what you want**<br/><br/>
+    ⚡ Fun fact: **GPT is incredible for understanding and learning**<br/><br/>
+   🌐 Socials:<br/><br/>
     <a href="mailto:tom.vieira1601@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -108,12 +105,6 @@
   </tr>
 </table>
 
-
-<h1 align="center">🌐 Socials:</h1>
-<p align="center">
-  <a href="https://discord.gg/Owme_"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-</p>
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
