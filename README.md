@@ -33,8 +33,6 @@
 <br clear="all"/>
 
 
-<br clear="all"/>
-
 <h1 align="center">🖥️ Languages & Tools</h1>
 
 <table align="center">
