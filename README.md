@@ -4,13 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=F76E09&center=true&random=false&width=435&lines=Welcome+to+my+Github+profile+!;Hello%2C+my+name+is+Tom+!;I+am+a+computer+science+student" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
+<div>
+    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" />
+    <p><strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.</p>
+</div>
 
-<p align="center">
-    <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.
-</p>
+<!-- Assurez-vous qu'il y a suffisamment d'espace entre les sections pour que le contenu ne se chevauche pas -->
+<br clear="all"/>
 
 <h1 align="center">🖥️ Languages & Tools</h2>
 
