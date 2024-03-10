@@ -13,11 +13,11 @@
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" />
 <div style="float: left; width: 60%;">
     <h3>A student with a passion for mobile development</h3>
-    🔭 I’m currently working on **mobile project**<br/><br/>
-    🌱 I’m currently learning **Kotlin,Swift and .NET MAUI**<br/><br/>
-    💬 Ask me about **what you want**<br/><br/>
-    ⚡ Fun fact: **GPT is incredible for understanding and learning**<br/><br/>
-   🌐 Socials:<br/><br/>
+    <strong>🔭 I’m currently working on a mobile project</strong><br/><br/>
+    <strong>🌱 I’m currently learning Kotlin, Swift, and .NET MAUI</strong><br/><br/>
+    <strong>💬 Ask me about what you want</strong><br/><br/>
+    <strong>⚡ Fun fact: GPT is incredible for understanding and learning</strong><br/><br/>
+   <strong style="text-decoration: underline;">🌐 Socials:</strong><br/><br/>
     <a href="mailto:tom.vieira1601@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -28,6 +28,10 @@
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
   </div>
+</div>
+
+<br clear="all"/>
+
 
 <br clear="all"/>
 
