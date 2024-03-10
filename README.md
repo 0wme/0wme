@@ -1,4 +1,4 @@
-<img align="right" href="https://visitcount.itsvg.in" src="https://visitcount.itsvg.in/api?id=0wme&icon=7&color=7"/>  <img 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=0wme.0wme" />
 
 
 <h1 align="center">
