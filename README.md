@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=0wme.0wme&left_color=orange&right_color=orange" align="right" />
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=F76E09&center=true&random=false&width=435&lines=Welcome+to+my+Github+profile+!;Hello%2C+my+name+is+Tom+!;I+am+a+computer+science+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=F76E09&center=true&random=false&width=600&lines=Welcome+to+my+Github+profile+!;Hello%2C+my+name+is+Tom+!;I+am+a+computer+science+student" alt="Typing SVG" /></a>
 </h1>
 
 <div>
@@ -98,3 +98,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wme&theme=dark&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wme&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="Fun GIF">
+</p>
+
