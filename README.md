@@ -1,4 +1,6 @@
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=0wme&icon=7&color=7"/></a>
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=0wme&icon=7&color=7"/></a>
+</p>
 
 
 <h1 align="center">
