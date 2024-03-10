@@ -1,7 +1,6 @@
-<h1 align="center"> 💫 About Me: </h1>
-<p align="center">
-    <strong>Hello, I'm Tom, a 21-year-old computer science student specializing in application development. My passion for computing has led me to focus on mobile development, primarily using Kotlin, Swift, MAUI, and SQL.</strong><br><br>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=F76E09&center=true&random=false&width=435&lines=Hello%2C+my+name+is+Tom+!;I+am+a+computer+science+student;Welcome+to+my+Github+profile+!)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=F76E09&center=true&random=false&width=435&lines=Hello%2C+my+name+is+Tom+!;I+am+a+computer+science+student;Welcome+to+my+Github+profile+!" alt="Typing SVG" /></a>
 
 <p align="center">
     <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.<br><br>
