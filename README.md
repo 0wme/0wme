@@ -4,13 +4,6 @@
     <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.<br><br>
 </p>
 
-<h1 align="center">🎓 Education:</h1>
-<p align="center">
-    <strong>Currently studying computer science with a focus on mobile development.
-    Coming Soon..
-    
-</strong><br><br>
-</p>
 
 <h1 align="center" style="color:orange;"><strong>💻 Tech Stack</strong></h1>
 
