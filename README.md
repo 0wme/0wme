@@ -11,8 +11,26 @@
 
 <div>
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" />
-    <p><strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.</p>
-</div>
+<div style="float: left; width: 60%;">
+    <h3>A passionate AI enthusiast from France 🇫🇷</h3>
+    🔭 I’m currently working on **advanced machine learning models**
+    <br/>
+    🌱 I’m currently learning **Quantum Computing, TensorFlow, and GPT-4**
+    <br/>
+    💬 Ask me about **Python, AI, OpenAI... or anything [here](https://github.com/0wme/0wme/issues)**
+    <br/>
+    ⚡ Fun fact: **The AI in 'Ex Machina' was inspired by real-life AI developments**
+    <br/><br/>
+    <a href="mailto:tom.vieira1601@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/tom-vieira-a65311226/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.tomvds.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    </a>
+  </div>
 
 <br clear="all"/>
 
