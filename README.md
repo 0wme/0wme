@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=F76E09&center=true&random=false&width=435&lines=Welcome+to+my+Github+profile+!;Hello%2C+my+name+is+Tom+!;I+am+a+computer+science+student)](https://git.io/typing-svg)
+<img align="right" href="https://visitcount.itsvg.in" src="https://visitcount.itsvg.in/api?id=0wme&icon=7&color=7"/>  <img 
+
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&color=F76E09&center=true&random=false&width=435&lines=Welcome+to+my+Github+profile+!;Hello%2C+my+name+is+Tom+!;I+am+a+computer+science+student" alt="Typing SVG" /></a>
+</h1>
+
 
 <p align="center">
     <strong>🔍 Interests:</strong> Passionate about artificial intelligence, I am committed to learning advanced technologies.<br><br>
@@ -81,9 +87,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wme&theme=dark&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wme&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-</p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=0wme&icon=7&color=7"/></a>
 </p>
