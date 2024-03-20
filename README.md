@@ -14,7 +14,7 @@
 <div style="float: left; width: 60%;">
     <h3>A student with a passion for mobile development</h3>
     <strong>🔭 I’m currently working on a mobile project</strong><br/><br/>
-    <strong>🌱 I’m currently learning Kotlin, Swift, and .NET MAUI.</strong><br/><br/>
+    <strong>🌱 I’m currently learning Kotlin, Swift, and .NET MAUI</strong><br/><br/>
     <strong>💬 Ask me about what you want</strong><br/><br/>
     <strong>⚡ Fun fact: GPT is incredible for understanding and learning</strong><br/><br/>
    <strong style="text-decoration: underline;">🌐 Socials:</strong><br/><br/>
