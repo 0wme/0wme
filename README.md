@@ -108,8 +108,8 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wme&theme=dark&hide_border=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wme&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wme&theme=material-palenight&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wme&theme=material-palenight&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 
