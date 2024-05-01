@@ -16,7 +16,7 @@
     <strong>🔭 I’m currently working on a mobile project</strong><br/><br/>
     <strong>🌱 I’m currently learning Kotlin, Swift, and .NET MAUI.</strong><br/><br/>
     <strong>💬 Ask me about what you want</strong><br/><br/>
-    <strong>⚡ Fun fact: GPT is incredible for understanding and learning.</strong><br/><br/>
+    <strong>⚡ Fun fact: GPT is incredible for understanding and learning</strong><br/><br/>
    <strong style="text-decoration: underline;">🌐 Socials:</strong><br/><br/>
     <a href="mailto:tom.vieira1601@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
