@@ -119,8 +119,8 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wme&theme=algolia&hide_border=false"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wme&theme=algolia&show_icons=true&hide_border=false&layout=compact"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wme&theme=nightowl&hide_border=true"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wme&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="Fun GIF">
