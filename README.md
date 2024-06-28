@@ -1,8 +1,5 @@
 ![MasterHead](Tom_banner.gif)
 
-
-
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=0wme.0wme&left_color=orange&right_color=orange" align="right" />
 
 <h1 align="center">
@@ -32,7 +29,6 @@
 
 <br clear="all"/>
 
-
 <h1 align="center">🖥️ Languages & Tools</h1>
 
 <table align="center">
@@ -43,6 +39,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>
       </p>
     </td>
     <td>
@@ -51,6 +49,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" title="Swift"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" title="Kotlin"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter"/>
       </p>
     </td>
     <td>
@@ -81,6 +80,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" width="40" height="40" title="CLion"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" title="Android Studio"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="40" height="40" title="Xcode"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" width="40" height="40" title="WebStorm"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" title="Spring Tool Suite"/>
       </p>
     </td>
     <td>
@@ -105,12 +106,12 @@
     </td>
   </tr>
 </table>
+
 <h1 align="center">📊 GitHub Stats:</h1>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0wme&theme=algolia&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wme&theme=algolia&show_icons=true&hide_border=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wme&theme=algolia&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="Fun GIF">
 </p>
-
