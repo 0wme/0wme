@@ -18,7 +18,6 @@
     <a href="mailto:tom.vieira1601@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/tom-vieira-a65311226/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
     <a href="https://www.tomvds.com" target="_blank">
